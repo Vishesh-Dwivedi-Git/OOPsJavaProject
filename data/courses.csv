@@ -1,0 +1,4 @@
+courseCode,name,branch,section,type,faculty,credits,lectureRoom
+CS201,Data Structures,CSE,A-2023,Theory,Dr. Smith,4,C205
+CS202,Algorithms,CSE,A-2023,Theory,Dr. Johnson,3,C206
+EC201,Digital Electronics,ECE,A-2023,Theory,Dr. Brown,4,C207
